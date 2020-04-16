@@ -4,5 +4,4 @@ The notebook is found in the file molpar.ipynb
 
 
 DOI:
-https://zenodo.org/badge/latestdoi/246540902
-https://zenodo.org/badge/246540902.svg
+[![DOI](https://zenodo.org/badge/246540902.svg)](https://zenodo.org/badge/latestdoi/246540902)
